@@ -36,7 +36,7 @@ return (
        
     </div>
     <div className='text-white my-4'>
-        Copyright © 2023 Degram Inc. All rights reserved
+        Copyright © 2024 Degram2.0 Inc. All rights reserved
         </div>
 
     </div>

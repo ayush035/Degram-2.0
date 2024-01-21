@@ -11,7 +11,7 @@ const config = createConfig(
     walletConnectProjectId: process.env.WALLETCONNECT_PROJECT_ID,
 
     // Required
-    appName: "Degram",
+    appName: "Degram2.0",
 
     // Optional
     appDescription: "Your App Description",
